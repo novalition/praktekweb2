@@ -1,5 +1,4 @@
 <?php
-
 echo "ini apa";
 
  ?>
