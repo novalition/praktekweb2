@@ -1,3 +1,4 @@
 <?php
-echo "ini file satu"; 
+echo "ini file berapa ya?"; 
+echo "Konnichiwa";
  ?>
