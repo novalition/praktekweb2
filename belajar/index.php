@@ -6,7 +6,7 @@
 <body>
 	<h1>Judul</h1>
 	<?php 
-	include 'tabel.php';
+	require 'eek.php';
 	 ?>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
